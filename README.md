@@ -16,3 +16,6 @@ Launch:
 
 - minimum SDK - 21
 - targeted SDK - 32
+
+
+![Weather_App_UI](https://user-images.githubusercontent.com/86651172/171561447-21c03c3a-caac-4183-b9d3-00f9ca78e603.PNG)
