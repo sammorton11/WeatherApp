@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_cloud.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\cloud.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_evening.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\evening.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable-xxhdpi_ic_refresh_24dp.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-pngs-24:\\drawable-xxhdpi\\ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable-hdpi_ic_refresh_24dp.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-pngs-24:\\drawable-hdpi\\ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_location.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\location.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable-ldpi_ic_refresh_24dp.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-pngs-24:\\drawable-ldpi\\ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_sunny.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\sunny.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_sunrise.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\sunrise.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_close.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\close.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_rain.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\rain.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_storm.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\storm.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_morning.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\morning.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable-xhdpi_ic_refresh_24dp.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-pngs-24:\\drawable-xhdpi\\ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\layout_dialog_custom_progress.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\layout\\dialog_custom_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable-anydpi-v24_ic_refresh_24dp.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-pngs-24:\\drawable-anydpi-v24\\ic_refresh_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_temperature.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_humidity.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\humidity.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_sunset.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\sunset.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_wind.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\wind.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable-xxxhdpi_ic_refresh_24dp.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-pngs-24:\\drawable-xxxhdpi\\ic_refresh_24dp.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.weatherapp-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable-mdpi_ic_refresh_24dp.png.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-pngs-24:\\drawable-mdpi\\ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\drawable_snowflake.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\drawable\\snowflake.xml"
+    },
+    {
+        "merged": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sammo\\.gradle\\daemon\\7.3.3\\com.weatherapp-main-31:\\layout\\activity_main.xml"
+    }
+]

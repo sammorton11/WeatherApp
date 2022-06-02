@@ -1,0 +1,308 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\sammo\.gradle\caches\transforms-3\80fd622c43b62920783566a0a665c379\transformed\jetified-viewbinding-7.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\sammo\.gradle\caches\transforms-3\66ee3db3efcbdf863d8cdda5a06d1bc1\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\sammo\.gradle\caches\transforms-3\97834efcf3cb9dbdfa2b5b6970128e05\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\sammo\.gradle\caches\transforms-3\43699aa8fd20be8bf6165d23296034cd\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sammo\.gradle\caches\transforms-3\3a03f3b448d1882e2dff3b105f446f58\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\sammo\.gradle\caches\transforms-3\5f7c3c923349d42ca313e04370c06a8c\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\sammo\.gradle\caches\transforms-3\1a2187794105bfc04a8edc734fa8902a\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\e0c7cdc29021a0990ad60377188a93a6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\sammo\.gradle\caches\transforms-3\b6450d52ba836ed92364664e6ff0b46c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\sammo\.gradle\caches\transforms-3\9eb563f14087d186ea409f6619d98d66\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\sammo\.gradle\caches\transforms-3\3ca3d1f84fdfb8adfa0806bb6db2d749\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\sammo\.gradle\caches\transforms-3\45ba13c379b24769a3a951aa55f7955b\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sammo\.gradle\caches\transforms-3\93e9dc8ff97c5694de49647b54be9650\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\sammo\.gradle\caches\transforms-3\ee2c8c299abb440eb80f376a9076c1b2\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\sammo\.gradle\caches\transforms-3\60b7ae37a1fa02a627d2ee5c5b281d02\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\1fa38866f53ab12320c5ebc75a078014\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\cd3b87b4340d893e97cba9500e72a9d7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\sammo\.gradle\caches\transforms-3\04544c4f8b1978785696ce054af7643c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\47580ba81a0e1575510b2701085cf27f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\c8666a6480665724f5d5539c8dc4d89f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sammo\.gradle\caches\transforms-3\26d931b67b2949d8ea368e5a3b85130b\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\65c86e9a1ba708a69605497f759fe8de\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\69b0920f672f9cb2e9fb13748769be70\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\ed60e4bcec9d548ca49c0e8cf701a592\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\7f267100de64bd29b43f89620ca05ad4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\b34f70a94db6f855fc00e3aacf430508\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\69600a85a59369b9c6209ff1503f8e8d\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\72363bebac6842aa57152507025f38c5\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\sammo\.gradle\caches\transforms-3\4825226d7bdc18dc642f18a8a048b277\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\be014ace0f893329344b3de87929ad67\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\sammo\.gradle\caches\transforms-3\e6be8eb5b111c5dcbeddbb893949995b\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\858c1f43fee2c49cda177f680d888d5b\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\sammo\.gradle\caches\transforms-3\591127c0c49eea2c4de48f04e66caf8f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\0279c2dfa08538b6397b7c452f23f153\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sammo\.gradle\caches\transforms-3\f2416a8f398ec1e28d764f47475f534b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sammo\.gradle\caches\transforms-3\4afad1f5db630f2663dfe167673ff2b9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\09be688504c01cd321a22556025efdeb\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\7500832b5b49bd934f0cd79be8deffb5\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sammo\.gradle\caches\transforms-3\8899ad9707a115c56ca154fbd3b982f6\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\sammo\.gradle\caches\transforms-3\af71f8f971b7a6964411aa4b58eea92c\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\sammo\.gradle\caches\transforms-3\97824de471102c5d7d237ab3d02f7546\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sammo\.gradle\caches\transforms-3\93e782034ed3e009fa83590d337f0ea2\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\6f56f1ba082def6824815720dcd6c58c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\35a28353571873618272aaff940a995e\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\da64b280e174979c60b9224c5a3d82ef\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\424999a548111c4541eab4ae2b82d443\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\16a98b8380414a4a7588c3fb03152ffb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:14:22-78
+application
+ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:16:5-37:19
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\sammo\.gradle\caches\transforms-3\97834efcf3cb9dbdfa2b5b6970128e05\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\sammo\.gradle\caches\transforms-3\97834efcf3cb9dbdfa2b5b6970128e05\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\sammo\.gradle\caches\transforms-3\43699aa8fd20be8bf6165d23296034cd\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\sammo\.gradle\caches\transforms-3\43699aa8fd20be8bf6165d23296034cd\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sammo\.gradle\caches\transforms-3\3a03f3b448d1882e2dff3b105f446f58\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sammo\.gradle\caches\transforms-3\3a03f3b448d1882e2dff3b105f446f58\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\sammo\.gradle\caches\transforms-3\1a2187794105bfc04a8edc734fa8902a\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\sammo\.gradle\caches\transforms-3\1a2187794105bfc04a8edc734fa8902a\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\sammo\.gradle\caches\transforms-3\b6450d52ba836ed92364664e6ff0b46c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\sammo\.gradle\caches\transforms-3\b6450d52ba836ed92364664e6ff0b46c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\sammo\.gradle\caches\transforms-3\9eb563f14087d186ea409f6619d98d66\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\sammo\.gradle\caches\transforms-3\9eb563f14087d186ea409f6619d98d66\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\sammo\.gradle\caches\transforms-3\3ca3d1f84fdfb8adfa0806bb6db2d749\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\sammo\.gradle\caches\transforms-3\3ca3d1f84fdfb8adfa0806bb6db2d749\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\sammo\.gradle\caches\transforms-3\45ba13c379b24769a3a951aa55f7955b\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\sammo\.gradle\caches\transforms-3\45ba13c379b24769a3a951aa55f7955b\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\cd3b87b4340d893e97cba9500e72a9d7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\cd3b87b4340d893e97cba9500e72a9d7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\sammo\.gradle\caches\transforms-3\4825226d7bdc18dc642f18a8a048b277\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\sammo\.gradle\caches\transforms-3\4825226d7bdc18dc642f18a8a048b277\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sammo\.gradle\caches\transforms-3\f2416a8f398ec1e28d764f47475f534b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sammo\.gradle\caches\transforms-3\f2416a8f398ec1e28d764f47475f534b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sammo\.gradle\caches\transforms-3\4afad1f5db630f2663dfe167673ff2b9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sammo\.gradle\caches\transforms-3\4afad1f5db630f2663dfe167673ff2b9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\09be688504c01cd321a22556025efdeb\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\09be688504c01cd321a22556025efdeb\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\sammo\.gradle\caches\transforms-3\4825226d7bdc18dc642f18a8a048b277\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:20:9-44
+	android:icon
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:18:9-39
+	android:allowBackup
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:22:9-40
+activity#com.weatherapp.activities.MainActivity
+ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:25:9-35:20
+	android:screenOrientation
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:27:13-55
+	android:exported
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:28:13-36
+	tools:ignore
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:29:13-53
+	android:name
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:26:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\sammo\.gradle\caches\transforms-3\80fd622c43b62920783566a0a665c379\transformed\jetified-viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\sammo\.gradle\caches\transforms-3\80fd622c43b62920783566a0a665c379\transformed\jetified-viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\sammo\.gradle\caches\transforms-3\66ee3db3efcbdf863d8cdda5a06d1bc1\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\sammo\.gradle\caches\transforms-3\66ee3db3efcbdf863d8cdda5a06d1bc1\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\sammo\.gradle\caches\transforms-3\97834efcf3cb9dbdfa2b5b6970128e05\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\sammo\.gradle\caches\transforms-3\97834efcf3cb9dbdfa2b5b6970128e05\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\sammo\.gradle\caches\transforms-3\43699aa8fd20be8bf6165d23296034cd\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\sammo\.gradle\caches\transforms-3\43699aa8fd20be8bf6165d23296034cd\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sammo\.gradle\caches\transforms-3\3a03f3b448d1882e2dff3b105f446f58\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sammo\.gradle\caches\transforms-3\3a03f3b448d1882e2dff3b105f446f58\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\sammo\.gradle\caches\transforms-3\5f7c3c923349d42ca313e04370c06a8c\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\sammo\.gradle\caches\transforms-3\5f7c3c923349d42ca313e04370c06a8c\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\sammo\.gradle\caches\transforms-3\1a2187794105bfc04a8edc734fa8902a\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\sammo\.gradle\caches\transforms-3\1a2187794105bfc04a8edc734fa8902a\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\e0c7cdc29021a0990ad60377188a93a6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\e0c7cdc29021a0990ad60377188a93a6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\sammo\.gradle\caches\transforms-3\b6450d52ba836ed92364664e6ff0b46c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\sammo\.gradle\caches\transforms-3\b6450d52ba836ed92364664e6ff0b46c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\sammo\.gradle\caches\transforms-3\9eb563f14087d186ea409f6619d98d66\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\sammo\.gradle\caches\transforms-3\9eb563f14087d186ea409f6619d98d66\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\sammo\.gradle\caches\transforms-3\3ca3d1f84fdfb8adfa0806bb6db2d749\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\sammo\.gradle\caches\transforms-3\3ca3d1f84fdfb8adfa0806bb6db2d749\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\sammo\.gradle\caches\transforms-3\45ba13c379b24769a3a951aa55f7955b\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\sammo\.gradle\caches\transforms-3\45ba13c379b24769a3a951aa55f7955b\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sammo\.gradle\caches\transforms-3\93e9dc8ff97c5694de49647b54be9650\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sammo\.gradle\caches\transforms-3\93e9dc8ff97c5694de49647b54be9650\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\sammo\.gradle\caches\transforms-3\ee2c8c299abb440eb80f376a9076c1b2\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\sammo\.gradle\caches\transforms-3\ee2c8c299abb440eb80f376a9076c1b2\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\sammo\.gradle\caches\transforms-3\60b7ae37a1fa02a627d2ee5c5b281d02\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\sammo\.gradle\caches\transforms-3\60b7ae37a1fa02a627d2ee5c5b281d02\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\1fa38866f53ab12320c5ebc75a078014\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\1fa38866f53ab12320c5ebc75a078014\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\cd3b87b4340d893e97cba9500e72a9d7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\cd3b87b4340d893e97cba9500e72a9d7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\sammo\.gradle\caches\transforms-3\04544c4f8b1978785696ce054af7643c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\sammo\.gradle\caches\transforms-3\04544c4f8b1978785696ce054af7643c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\47580ba81a0e1575510b2701085cf27f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\47580ba81a0e1575510b2701085cf27f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\c8666a6480665724f5d5539c8dc4d89f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\c8666a6480665724f5d5539c8dc4d89f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sammo\.gradle\caches\transforms-3\26d931b67b2949d8ea368e5a3b85130b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sammo\.gradle\caches\transforms-3\26d931b67b2949d8ea368e5a3b85130b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\65c86e9a1ba708a69605497f759fe8de\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\65c86e9a1ba708a69605497f759fe8de\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\69b0920f672f9cb2e9fb13748769be70\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\69b0920f672f9cb2e9fb13748769be70\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\ed60e4bcec9d548ca49c0e8cf701a592\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\ed60e4bcec9d548ca49c0e8cf701a592\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\7f267100de64bd29b43f89620ca05ad4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\7f267100de64bd29b43f89620ca05ad4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\b34f70a94db6f855fc00e3aacf430508\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\b34f70a94db6f855fc00e3aacf430508\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\69600a85a59369b9c6209ff1503f8e8d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\69600a85a59369b9c6209ff1503f8e8d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\72363bebac6842aa57152507025f38c5\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\72363bebac6842aa57152507025f38c5\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\sammo\.gradle\caches\transforms-3\4825226d7bdc18dc642f18a8a048b277\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\sammo\.gradle\caches\transforms-3\4825226d7bdc18dc642f18a8a048b277\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\be014ace0f893329344b3de87929ad67\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\be014ace0f893329344b3de87929ad67\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\sammo\.gradle\caches\transforms-3\e6be8eb5b111c5dcbeddbb893949995b\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\sammo\.gradle\caches\transforms-3\e6be8eb5b111c5dcbeddbb893949995b\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\858c1f43fee2c49cda177f680d888d5b\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\858c1f43fee2c49cda177f680d888d5b\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\sammo\.gradle\caches\transforms-3\591127c0c49eea2c4de48f04e66caf8f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\sammo\.gradle\caches\transforms-3\591127c0c49eea2c4de48f04e66caf8f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\0279c2dfa08538b6397b7c452f23f153\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\0279c2dfa08538b6397b7c452f23f153\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sammo\.gradle\caches\transforms-3\f2416a8f398ec1e28d764f47475f534b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sammo\.gradle\caches\transforms-3\f2416a8f398ec1e28d764f47475f534b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sammo\.gradle\caches\transforms-3\4afad1f5db630f2663dfe167673ff2b9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sammo\.gradle\caches\transforms-3\4afad1f5db630f2663dfe167673ff2b9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\09be688504c01cd321a22556025efdeb\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\09be688504c01cd321a22556025efdeb\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\7500832b5b49bd934f0cd79be8deffb5\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\7500832b5b49bd934f0cd79be8deffb5\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sammo\.gradle\caches\transforms-3\8899ad9707a115c56ca154fbd3b982f6\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sammo\.gradle\caches\transforms-3\8899ad9707a115c56ca154fbd3b982f6\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\sammo\.gradle\caches\transforms-3\af71f8f971b7a6964411aa4b58eea92c\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\sammo\.gradle\caches\transforms-3\af71f8f971b7a6964411aa4b58eea92c\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\sammo\.gradle\caches\transforms-3\97824de471102c5d7d237ab3d02f7546\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\sammo\.gradle\caches\transforms-3\97824de471102c5d7d237ab3d02f7546\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sammo\.gradle\caches\transforms-3\93e782034ed3e009fa83590d337f0ea2\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sammo\.gradle\caches\transforms-3\93e782034ed3e009fa83590d337f0ea2\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\6f56f1ba082def6824815720dcd6c58c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\6f56f1ba082def6824815720dcd6c58c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\35a28353571873618272aaff940a995e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\35a28353571873618272aaff940a995e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\da64b280e174979c60b9224c5a3d82ef\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\da64b280e174979c60b9224c5a3d82ef\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\424999a548111c4541eab4ae2b82d443\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\424999a548111c4541eab4ae2b82d443\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\16a98b8380414a4a7588c3fb03152ffb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\sammo\.gradle\caches\transforms-3\16a98b8380414a4a7588c3fb03152ffb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:6.0.1] C:\Users\sammo\.gradle\caches\transforms-3\97834efcf3cb9dbdfa2b5b6970128e05\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:6.0.1] C:\Users\sammo\.gradle\caches\transforms-3\97834efcf3cb9dbdfa2b5b6970128e05\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:6.0.1] C:\Users\sammo\.gradle\caches\transforms-3\97834efcf3cb9dbdfa2b5b6970128e05\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:28:13-60
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\sammo\.gradle\caches\transforms-3\b6450d52ba836ed92364664e6ff0b46c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\sammo\.gradle\caches\transforms-3\b6450d52ba836ed92364664e6ff0b46c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\sammo\.gradle\caches\transforms-3\b6450d52ba836ed92364664e6ff0b46c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\sammo\.gradle\caches\transforms-3\b6450d52ba836ed92364664e6ff0b46c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\sammo\.gradle\caches\transforms-3\45ba13c379b24769a3a951aa55f7955b\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\sammo\.gradle\caches\transforms-3\45ba13c379b24769a3a951aa55f7955b\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\sammo\.gradle\caches\transforms-3\45ba13c379b24769a3a951aa55f7955b\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\cd3b87b4340d893e97cba9500e72a9d7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sammo\.gradle\caches\transforms-3\4afad1f5db630f2663dfe167673ff2b9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sammo\.gradle\caches\transforms-3\4afad1f5db630f2663dfe167673ff2b9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\09be688504c01cd321a22556025efdeb\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\09be688504c01cd321a22556025efdeb\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\cd3b87b4340d893e97cba9500e72a9d7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\cd3b87b4340d893e97cba9500e72a9d7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\cd3b87b4340d893e97cba9500e72a9d7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\cd3b87b4340d893e97cba9500e72a9d7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\cd3b87b4340d893e97cba9500e72a9d7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\cd3b87b4340d893e97cba9500e72a9d7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\sammo\.gradle\caches\transforms-3\cd3b87b4340d893e97cba9500e72a9d7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sammo\.gradle\caches\transforms-3\4afad1f5db630f2663dfe167673ff2b9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sammo\.gradle\caches\transforms-3\4afad1f5db630f2663dfe167673ff2b9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sammo\.gradle\caches\transforms-3\4afad1f5db630f2663dfe167673ff2b9\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78

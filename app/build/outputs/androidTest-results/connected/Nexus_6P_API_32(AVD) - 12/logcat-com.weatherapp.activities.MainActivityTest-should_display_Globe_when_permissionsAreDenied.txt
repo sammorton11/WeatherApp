@@ -1,0 +1,579 @@
+06-01 18:34:39.432 18900 18921 I TestRunner: started: should_display_Globe_when_permissionsAreDenied(com.weatherapp.activities.MainActivityTest)
+06-01 18:34:39.432  1804  1952 I A       : NGA disabled due to not being eligible.
+06-01 18:34:39.450 18900 18921 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-01 18:34:39.458 18900 18921 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10151; state: ENABLED
+06-01 18:34:39.478   771   848 D SplashScreenView: Build android.window.SplashScreenView{6be8cc4 V.E...... ......ID 0,0-0,0}
+06-01 18:34:39.478   771   848 D SplashScreenView: Icon: view: null drawable: null size: 0
+06-01 18:34:39.478   771   848 D SplashScreenView: Branding: view: android.view.View{19dd7ad G.ED..... ......I. 0,0-0,0 #10204a9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+06-01 18:34:39.489   358   358 D Zygote  : Forked child process 18924
+06-01 18:34:39.494 18924 18924 I weatherapp.tes: Late-enabling -Xcheck:jni
+06-01 18:34:39.503   374   374 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f0e10000]
+06-01 18:34:39.507   374   374 D goldfish-address-space: claimShared: Ask to claim region [0x3f10d7000 0x3f1ee7000]
+06-01 18:34:39.509   374   428 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f4e10000]
+06-01 18:34:39.520 18924 18924 W weatherapp.tes: Unexpected CPU variant for X86 using defaults: x86_64
+06-01 18:34:39.530  1134  1711 D EGL_emulation: app_time_stats: avg=1845.25ms min=1845.25ms max=1845.25ms count=1
+06-01 18:34:39.532   451   468 I adbd    : jdwp connection from 18924
+06-01 18:34:39.541   577  1081 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.541   577  1081 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.541   577  1081 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.541   577  1081 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.541   577  1081 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.541   577  1081 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.541   577  1081 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.541   577  1081 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.542   577  1081 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.542   577  1081 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.542   577  1081 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.542   577  1081 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.542   577  1081 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.542   577  1081 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.543   577  1081 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.543   577  1081 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.543   577  1081 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.543   577  1081 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.543   577  1081 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.543   577  1081 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.567 18924 18924 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10153; state: ENABLED
+06-01 18:34:39.572  1804  1804 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=84, right=0, bottom=56}
+06-01 18:34:39.577 18924 18924 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+06-01 18:34:39.577  1804  1804 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=84, right=0, bottom=56}
+06-01 18:34:39.579 18924 18924 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+06-01 18:34:39.589  1558  1558 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+06-01 18:34:39.589  1558  1558 E HwDetectorWithState: a: 3
+06-01 18:34:39.606 18924 18924 V GraphicsEnvironment: ANGLE Developer option for 'com.weatherapp.test' set to: 'default'
+06-01 18:34:39.607 18924 18924 V GraphicsEnvironment: ANGLE GameManagerService for com.weatherapp.test: false
+06-01 18:34:39.607 18924 18924 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+06-01 18:34:39.609 18924 18924 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-01 18:34:39.610 18924 18924 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-01 18:34:39.642 18924 18951 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+06-01 18:34:39.643 18924 18951 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+06-01 18:34:39.644 18924 18951 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+06-01 18:34:39.682   577  3863 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.682   577  3863 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.683   577  3863 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.683   577  3863 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.683   577  3863 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.683   577  3863 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.683   577  3863 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.683   577  3863 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.683   577  3863 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.683   577  3863 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.683   577  3863 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.683   577  3863 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.684   577  3863 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.684   577  3863 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.684   577  3863 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.684   577  3863 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.684   577  3863 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.684   577  3863 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.684   577  3863 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.684   577  3863 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.706 18900 18955 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+06-01 18:34:39.707 18900 18955 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+06-01 18:34:39.708 18900 18955 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+06-01 18:34:39.758 18900 18900 D LifecycleMonitor: Lifecycle status change: com.weatherapp.activities.MainActivity@c247ec9 in: PRE_ON_CREATE
+06-01 18:34:39.759 18900 18900 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-01 18:34:39.838 18900 18900 W com.weatherapp: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+06-01 18:34:39.839 18900 18900 W com.weatherapp: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+06-01 18:34:39.954 18900 18900 D LifecycleMonitor: Lifecycle status change: com.weatherapp.activities.MainActivity@c247ec9 in: CREATED
+06-01 18:34:39.955 18900 18900 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.weatherapp.activities.MainActivity@c247ec9
+06-01 18:34:39.965 18900 18900 D LifecycleMonitor: Lifecycle status change: com.weatherapp.activities.MainActivity@c247ec9 in: STARTED
+06-01 18:34:39.965 18900 18900 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.weatherapp.activities.MainActivity@c247ec9
+06-01 18:34:39.967 18900 18900 D LifecycleMonitor: Lifecycle status change: com.weatherapp.activities.MainActivity@c247ec9 in: RESUMED
+06-01 18:34:39.967 18900 18900 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.weatherapp.activities.MainActivity@c247ec9
+06-01 18:34:39.968 18900 18921 I UiAutomationShellCmd: Requesting permission: pm grant com.weatherapp android.permission.ACCESS_FINE_LOCATION
+06-01 18:34:39.968 18900 18921 W UiAutomation: UiAutomation.grantRuntimePermission() is more robust and should be used instead of 'pm grant'
+06-01 18:34:39.986 18900 18921 I GrantPermissionCallable: Permission: android.permission.ACCESS_COARSE_LOCATION is already granted!
+06-01 18:34:39.987 18900 18921 I GrantPermissionCallable: Permission: android.permission.ACCESS_NETWORK_STATE is already granted!
+06-01 18:34:39.994 18900 18900 D LifecycleMonitor: Lifecycle status change: com.weatherapp.activities.MainActivity@c247ec9 in: PAUSED
+06-01 18:34:39.994 18900 18900 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.weatherapp.activities.MainActivity@c247ec9
+06-01 18:34:39.995   577  3115 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.995   577  3115 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.995   577  3115 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.996   577  3115 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.996   577  3115 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.996   577  3115 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.996   577  3115 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.996   577  3115 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.996   577  3115 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.996   577  3115 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.996   577  3115 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.996   577  3115 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.996   577  3115 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.996   577  3115 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.996   577  3115 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.996   577  3115 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.997   577  3115 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.997   577  3115 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.997   577  3115 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:39.997   577  3115 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.015 18900 18921 E QueryController: Got null root node from accessibility - Retrying...
+06-01 18:34:40.026 18900 18953 D HostConnection: createUnique: call
+06-01 18:34:40.027 18900 18953 D HostConnection: HostConnection::get() New Host Connection established 0x7dd7c372b1d0, tid 18953
+06-01 18:34:40.032 18900 18953 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+06-01 18:34:40.034   216   216 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device VINTF manifest.
+06-01 18:34:40.034 18900 18953 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+06-01 18:34:40.035 18900 18953 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+06-01 18:34:40.047 18900 18953 D EGL_emulation: eglCreateContext: 0x7dd7c372bf50: maj 2 min 0 rcv 2
+06-01 18:34:40.086 18900 18953 D EGL_emulation: eglMakeCurrent: 0x7dd7c372bf50: ver 2 0 (tinfo 0x7dd9e7237080) (first time)
+06-01 18:34:40.091   216   216 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+06-01 18:34:40.092 18900 18953 I Gralloc4: mapper 4.x is not supported
+06-01 18:34:40.092 18900 18953 D HostConnection: createUnique: call
+06-01 18:34:40.093 18900 18953 D HostConnection: HostConnection::get() New Host Connection established 0x7dd7c372bdd0, tid 18953
+06-01 18:34:40.094 18900 18953 D goldfish-address-space: allocate: Ask for block of size 0x100
+06-01 18:34:40.094 18900 18953 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3e7ffe000 size 0x2000
+06-01 18:34:40.127   216   216 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+06-01 18:34:40.128 18900 18953 W Gralloc4: allocator 4.x is not supported
+06-01 18:34:40.130   374   428 D goldfish-address-space: claimShared: Ask to claim region [0x3e8000000 0x3e8e10000]
+06-01 18:34:40.144 18900 18953 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+06-01 18:34:40.146   374   428 D goldfish-address-space: claimShared: Ask to claim region [0x3e9710000 0x3ea520000]
+06-01 18:34:40.148   374   428 D goldfish-address-space: claimShared: Ask to claim region [0x3ea520000 0x3eb330000]
+06-01 18:34:40.216 18900 18900 D LifecycleMonitor: Lifecycle status change: com.karumi.dexter.DexterActivity@fa8b386 in: PRE_ON_CREATE
+06-01 18:34:40.217 18900 18900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.weatherapp/.activities.MainActivity }, activity.getIntent()=Intent { cmp=com.weatherapp/com.karumi.dexter.DexterActivity }, activity=com.karumi.dexter.DexterActivity@fa8b386
+06-01 18:34:40.229   374   428 D goldfish-address-space: claimShared: Ask to claim region [0x3eb330000 0x3ebc30000]
+06-01 18:34:40.246   577  1081 W InputManager-JNI: Input channel object 'aae5514 Splash Screen com.weatherapp.test (client)' was disposed without first being removed with the input manager!
+06-01 18:34:40.260 18900 18900 D LifecycleMonitor: Lifecycle status change: com.karumi.dexter.DexterActivity@fa8b386 in: CREATED
+06-01 18:34:40.261 18900 18900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.weatherapp/.activities.MainActivity }, activity.getIntent()=Intent { cmp=com.weatherapp/com.karumi.dexter.DexterActivity }, activity=com.karumi.dexter.DexterActivity@fa8b386
+06-01 18:34:40.267 18900 18921 E QueryController: Got null root node from accessibility - Retrying...
+06-01 18:34:40.314   577  1081 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.314   577  1081 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.314   577  1081 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.314   577  1081 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.315   577  1081 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.315   577  1081 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.315   577  1081 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.315   577  1081 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.315   577  1081 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.316   577  1081 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.317   577  1081 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.318   577  1081 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.318   577  1081 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.318   577  1081 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.318   577  1081 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.318   577  1081 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.319   577  1081 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.319   577  1081 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.319   577  1081 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.319   577  1081 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:40.327 18900 18900 D LifecycleMonitor: Lifecycle status change: com.weatherapp.activities.MainActivity@c247ec9 in: RESUMED
+06-01 18:34:40.327 18900 18900 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.weatherapp.activities.MainActivity@c247ec9
+06-01 18:34:40.335 18900 18900 D LifecycleMonitor: Lifecycle status change: com.karumi.dexter.DexterActivity@fa8b386 in: DESTROYED
+06-01 18:34:40.336 18900 18900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.weatherapp/.activities.MainActivity }, activity.getIntent()=Intent { cmp=com.weatherapp/com.karumi.dexter.DexterActivity }, activity=com.karumi.dexter.DexterActivity@fa8b386
+06-01 18:34:40.369  1398  1398 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
+06-01 18:34:40.370  1398  1398 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
+06-01 18:34:40.372  1398  1398 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-01 18:34:40.389   771   901 D EGL_emulation: app_time_stats: avg=26943.64ms min=26943.64ms max=26943.64ms count=1
+06-01 18:34:40.490  3875  6372 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+06-01 18:34:40.491  3875  6372 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+06-01 18:34:40.493  3875  6372 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+06-01 18:34:40.497  3875  3895 I FontLog : Pulling font file for id = 49, cache size = 7 [CONTEXT service_id=132 ]
+06-01 18:34:40.501  3875  3895 I FontLog : Pulling font file for id = 49, cache size = 7 [CONTEXT service_id=132 ]
+06-01 18:34:48.423  1533  1551 W MediaProvider: Failed to fetch original file descriptor
+06-01 18:34:48.423  1533  1551 W MediaProvider: java.io.IOException: stat failed: EACCES (Permission denied)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at com.android.providers.media.MediaProvider.getFileFromFileDescriptor(MediaProvider.java:5869)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at com.android.providers.media.MediaProvider.getOriginalMediaFormatFileDescriptor(MediaProvider.java:5786)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at com.android.providers.media.MediaProvider.openTypedAssetFileCommon(MediaProvider.java:7247)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at com.android.providers.media.MediaProvider.openTypedAssetFile(MediaProvider.java:7228)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at android.content.ContentProvider$Transport.openTypedAssetFile(ContentProvider.java:548)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:327)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at android.os.Binder.execTransactInternal(Binder.java:1179)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at android.os.Binder.execTransact(Binder.java:1143)
+06-01 18:34:48.423  1533  1551 W MediaProvider: Caused by: android.system.ErrnoException: stat failed: EACCES (Permission denied)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at libcore.io.Linux.stat(Native Method)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at libcore.io.ForwardingOs.stat(ForwardingOs.java:853)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at libcore.io.BlockGuardOs.stat(BlockGuardOs.java:420)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at libcore.io.ForwardingOs.stat(ForwardingOs.java:853)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at android.app.ActivityThread$AndroidOs.stat(ActivityThread.java:7742)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at android.system.Os.stat(Os.java:919)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	at com.android.providers.media.MediaProvider.getFileFromFileDescriptor(MediaProvider.java:5863)
+06-01 18:34:48.423  1533  1551 W MediaProvider: 	... 7 more
+06-01 18:34:48.426   487  2869 D NuPlayerDriver: NuPlayerDriver(0x79426734c590) created, clientPid(771)
+06-01 18:34:48.427   771   771 D InterruptionStateProvider: No bubble up: not allowed to bubble: 0|androidx.test.services|2131034171|null|10155
+06-01 18:34:48.427   216   216 I hwservicemanager: getTransport: Cannot find entry android.hardware.media.omx@1.0::IOmx/default in either framework or device VINTF manifest.
+06-01 18:34:48.427   487  2869 D MediaPlayerService: OMX service is not available
+06-01 18:34:48.427   771   771 D InterruptionStateProvider: No heads up: unimportant notification: 0|androidx.test.services|2131034171|null|10155
+06-01 18:34:48.428   771  1048 D PeopleSpaceWidgetMgr: Sbn doesn't contain valid PeopleTileKey: null/0/androidx.test.services
+06-01 18:34:48.436   487 18978 D GenericSource: FileSource remote
+06-01 18:34:48.446   577  1414 I MediaFocusControl: requestAudioFocus() from uid/pid 10138/771 AA=USAGE_NOTIFICATION/CONTENT_TYPE_SONIFICATION clientId=android.media.AudioManager@3113f69 callingPack=com.android.systemui req=3 flags=0x0 sdk=32
+06-01 18:34:48.446   577  1414 I AudioService.FadeOutManager: unfadeOutUid() uid:10138
+06-01 18:34:48.467   771   901 D EGL_emulation: app_time_stats: avg=4031.08ms min=6.30ms max=8055.85ms count=2
+06-01 18:34:48.829 18900 18921 D EventInjectionStrategy: Creating injection strategy with input manager.
+06-01 18:34:48.829 18900 18921 W com.weatherapp: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+06-01 18:34:48.829 18900 18921 W com.weatherapp: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+06-01 18:34:48.829 18900 18921 W com.weatherapp: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+06-01 18:34:48.846 18900 18921 W com.weatherapp: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+06-01 18:34:48.854 18900 18900 W com.weatherapp: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+06-01 18:34:48.854 18900 18900 W com.weatherapp: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+06-01 18:34:48.854 18900 18900 W com.weatherapp: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+06-01 18:34:48.859 18900 18900 W com.weatherapp: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+06-01 18:34:48.859 18900 18900 W com.weatherapp: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+06-01 18:34:48.859 18900 18900 W com.weatherapp: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+06-01 18:34:48.867 18900 18900 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230787/com.weatherapp:id/action_refresh>
+06-01 18:34:48.872  1134  1134 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=1341.5, y[0]=181.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2882572, downTime=2882572, deviceId=-1, source=0x1002, displayId=0, eventId=-839015646 }
+06-01 18:34:48.894   374   428 D goldfish-address-space: claimShared: Ask to claim region [0x3ebc42000 0x3ebc93000]
+06-01 18:34:48.894   400   457 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-01 18:34:48.902   374   428 D goldfish-address-space: claimShared: Ask to claim region [0x3ebc93000 0x3ebce4000]
+06-01 18:34:48.904   374   428 D goldfish-address-space: claimShared: Ask to claim region [0x3ebce4000 0x3ebd35000]
+06-01 18:34:48.911   771  6995 I OpenGLRenderer: Davey! duration=43215ms; Flags=1, FrameTimelineVsyncId=36937, IntendedVsync=2839391299724, Vsync=2839391299724, InputEventId=0, HandleInputStart=2839392349700, AnimationStart=2839392369100, PerformTraversalsStart=2839392396800, DrawStart=2839404004100, FrameDeadline=2839424633056, FrameInterval=2839392336900, FrameStartTime=16666666, SyncQueued=2839404162300, SyncStart=2839405479200, IssueDrawCommandsStart=2839405514400, SwapBuffers=2839405690200, FrameCompleted=2882608599300, DequeueBufferDuration=19200, QueueBufferDuration=458800, GpuCompleted=2882608599300, SwapBuffersCompleted=2839406486500, DisplayPresentTime=0,
+06-01 18:34:48.912   374   374 D goldfish-address-space: claimShared: Ask to claim region [0x3ef848000 0x3effa6000]
+06-01 18:34:48.916  1134  1134 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=1341.5, y[0]=181.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2882615, downTime=2882572, deviceId=-1, source=0x1002, displayId=0, eventId=-315774633 }
+06-01 18:34:48.924   400   562 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-01 18:34:48.933   363   453 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+06-01 18:34:48.938 18900 18953 D EGL_emulation: app_time_stats: avg=1457.76ms min=10.13ms max=8358.57ms count=6
+06-01 18:34:48.948   487 18977 I GenericSource: start
+06-01 18:34:48.948   771   771 D MediaRouter: onRestoreRoute() : route=RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+06-01 18:34:48.949   771   771 V MediaRouter: Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+06-01 18:34:48.952   487 18986 D CCodec  : allocate(c2.android.vorbis.decoder)
+06-01 18:34:48.954   487 18986 I CCodec  : setting up 'default' as default (vendor) store
+06-01 18:34:48.955   492   934 V C2Store : in init
+06-01 18:34:48.955   492   934 V C2Store : loading dll
+06-01 18:34:48.958   487 18986 I CCodec  : Created component [c2.android.vorbis.decoder]
+06-01 18:34:48.958   487 18986 D CCodecConfig: read media type: audio/vorbis
+06-01 18:34:48.962   487 18986 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+06-01 18:34:48.962   487 18986 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+06-01 18:34:48.963   487 18986 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+06-01 18:34:48.963   487 18986 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+06-01 18:34:48.963   487 18986 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+06-01 18:34:48.963   487 18986 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+06-01 18:34:48.964   487 18986 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+06-01 18:34:48.965   487 18986 I CCodecConfig: query failed after returning 7 values (BAD_INDEX)
+06-01 18:34:48.965   487 18986 D CCodecConfig: c2 config diff is Dict {
+06-01 18:34:48.965   487 18986 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+06-01 18:34:48.965   487 18986 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 32768
+06-01 18:34:48.965   487 18986 D CCodecConfig:   c2::u32 input.delay.value = 0
+06-01 18:34:48.965   487 18986 D CCodecConfig:   string input.media-type.value = "audio/vorbis"
+06-01 18:34:48.965   487 18986 D CCodecConfig:   string output.media-type.value = "audio/raw"
+06-01 18:34:48.965   487 18986 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+06-01 18:34:48.965   487 18986 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+06-01 18:34:48.965   487 18986 D CCodecConfig: }
+06-01 18:34:48.966   487 18986 D CCodec  : [c2.android.vorbis.decoder] buffers are bound to CCodec for this session
+06-01 18:34:48.966   487 18986 D CCodecConfig: no c2 equivalents for durationUs
+06-01 18:34:48.966   487 18986 D CCodecConfig: no c2 equivalents for csd-1
+06-01 18:34:48.966   487 18986 D CCodecConfig: no c2 equivalents for channel-mask
+06-01 18:34:48.966   487 18986 D CCodecConfig: no c2 equivalents for flags
+06-01 18:34:48.967   487 18986 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 70000
+06-01 18:34:48.967   487 18986 W Codec2Client: query -- param skipped: index = 1107298332.
+06-01 18:34:48.967   487 18986 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+06-01 18:34:48.967   487 18986 D CCodec  :   int32_t bitrate = 70000
+06-01 18:34:48.967   487 18986 D CCodec  :   int32_t channel-count = 1
+06-01 18:34:48.967   487 18986 D CCodec  :   int32_t max-input-size = 32768
+06-01 18:34:48.967   487 18986 D CCodec  :   string mime = "audio/vorbis"
+06-01 18:34:48.967   487 18986 D CCodec  :   int32_t sample-rate = 48000
+06-01 18:34:48.967   487 18986 D CCodec  : }
+06-01 18:34:48.967   487 18986 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+06-01 18:34:48.967   487 18986 D CCodec  :   int32_t channel-count = 1
+06-01 18:34:48.967   487 18986 D CCodec  :   string mime = "audio/raw"
+06-01 18:34:48.967   487 18986 D CCodec  :   int32_t sample-rate = 48000
+06-01 18:34:48.967   487 18986 D CCodec  :   int32_t channel-mask = 1
+06-01 18:34:48.967   487 18986 D CCodec  : }
+06-01 18:34:48.968   487 18986 I CCodecConfig: query failed after returning 7 values (BAD_INDEX)
+06-01 18:34:48.968   487 18986 I MediaCodec: MediaCodec will operate in async mode
+06-01 18:34:48.968   487 18985 D MediaCodec: keep callback message for reclaim
+06-01 18:34:48.969   487 18986 W Codec2Client: query -- param skipped: index = 1342179345.
+06-01 18:34:48.969   487 18986 W Codec2Client: query -- param skipped: index = 2415921170.
+06-01 18:34:48.970   492   492 D BufferPoolAccessor2.0: bufferpool2 0x7db5cfc26128 : 0(0 size) total buffers - 0(0 size) used buffers - 93/97 (recycle/alloc) - 4/96 (fetch/transfer)
+06-01 18:34:48.970   492   492 D BufferPoolAccessor2.0: Destruction - bufferpool2 0x7db5cfc26128 cached: 0/0M, 0/0% in use; allocs: 97, 96% recycled; transfers: 96, 96% unfetched
+06-01 18:34:48.971   487 18986 D CCodecBufferChannel: [c2.android.vorbis.decoder#815] Created input block pool with allocatorID 16 => poolID 37 - OK (0)
+06-01 18:34:48.972   487  4786 D BufferPoolAccessor2.0: bufferpool2 0x7942873553d8 : 0(0 size) total buffers - 0(0 size) used buffers - 93/101 (recycle/alloc) - 8/198 (fetch/transfer)
+06-01 18:34:48.972   487 18986 I CCodecBufferChannel: [c2.android.vorbis.decoder#815] Created output block pool with allocatorID 16 => poolID 46 - OK
+06-01 18:34:48.972   487 18986 D CCodecBufferChannel: [c2.android.vorbis.decoder#815] Configured output block pool ids 46 => OK
+06-01 18:34:48.973   487  4784 D BufferPoolAccessor2.0: Destruction - bufferpool2 0x7942873553d8 cached: 0/0M, 0/0% in use; allocs: 101, 92% recycled; transfers: 198, 96% unfetched
+06-01 18:34:48.974   492 18987 D SimpleC2Component: Using output block pool with poolID 46 => got 46 - 0
+06-01 18:34:48.982   396   396 D AudioFlinger: Client defaulted notificationFrames to 12213 for frameCount 24426
+06-01 18:34:48.983   396   396 D AF::TrackHandle: OpPlayAudio: track:76 usage:5 not muted
+06-01 18:34:49.002   363   453 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+06-01 18:34:49.003   487 18984 D AudioTrack: getTimestamp_l(36): device stall time corrected using current time 2882705570600
+06-01 18:34:49.012   374   374 D goldfish-address-space: claimShared: Ask to claim region [0x3ebc30000 0x3ebc42000]
+06-01 18:34:49.021   357 18990 D resolv  : GetAddrInfoHandler::run: {101 101 101 983141 10151 0}
+06-01 18:34:49.023   357 18990 D resolv  : resolv_getaddrinfo: explore_fqdn(): ai_family=0 ai_socktype=1 ai_protocol=6
+06-01 18:34:49.024   357 18991 D resolv  : doQuery: (1, 28)
+06-01 18:34:49.025   357 18991 D resolv  : res_nmkquery: (QUERY, IN, AAAA)
+06-01 18:34:49.025   357 18991 D resolv  : res_nopt
+06-01 18:34:49.025   357 18991 D resolv  : res_nopt: ENDS0 DNSSEC
+06-01 18:34:49.025   357 18991 D resolv  : res_nsend
+06-01 18:34:49.025   357 18991 I resolv  : resolv_cache_lookup: lookup
+06-01 18:34:49.025   357 18992 D resolv  : doQuery: (1, 1)
+06-01 18:34:49.025   357 18992 D resolv  : res_nmkquery: (QUERY, IN, A)
+06-01 18:34:49.025   357 18991 I resolv  : resolv_cache_lookup: FOUND IN CACHE entry=0x7d348561e890
+06-01 18:34:49.025   357 18992 D resolv  : res_nopt
+06-01 18:34:49.025   357 18992 D resolv  : res_nopt: ENDS0 DNSSEC
+06-01 18:34:49.025   357 18991 D resolv  : doQuery: rcode=0, ancount=0
+06-01 18:34:49.026   357 18992 D resolv  : res_nsend
+06-01 18:34:49.026   357 18992 I resolv  : resolv_cache_lookup: lookup
+06-01 18:34:49.026   357 18992 I resolv  : resolv_cache_lookup: FOUND IN CACHE entry=0x7d3475616170
+06-01 18:34:49.026   357 18992 D resolv  : doQuery: rcode=0, ancount=3
+06-01 18:34:49.032   374   374 D goldfish-address-space: claimShared: Ask to claim region [0x3ebc42000 0x3ebe5c000]
+06-01 18:34:49.035   374   374 D goldfish-address-space: claimShared: Ask to claim region [0x3ef848000 0x3efa62000]
+06-01 18:34:49.041   363   453 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+06-01 18:34:49.051   374   374 D goldfish-address-space: claimShared: Ask to claim region [0x3efa62000 0x3efc7c000]
+06-01 18:34:49.069   363   453 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+06-01 18:34:49.096  1398  1398 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
+06-01 18:34:49.097  1398  1398 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
+06-01 18:34:49.097  1398  1398 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-01 18:34:49.205   577  2455 W InputManager-JNI: Input channel object '9b5305c com.weatherapp/com.weatherapp.activities.MainActivity (client)' was disposed without first being removed with the input manager!
+06-01 18:34:49.211 18900 18900 I Response Result: WeatherResponse(coord=Coord(lon=0.0, lat=0.0), weather=[Weather(id=801, main=Clouds, description=few clouds, icon=02n)], base=stations, main=Main(temp=29.44, pressure=1006.0, humidity=66.0, temp_min=29.44, temp_max=29.44), visibility=10000, wind=Wind(speed=0.89, deg=225), clouds=Clouds(all=13), dt=1654126266, sys=Sys(type=2, message=0.0, country=null, sunrise=1654062864, sunset=1654106494), id=6295630, name=Globe, cod=200, daily=null)
+06-01 18:34:49.225 18900 18900 I unit    : [en_US]
+06-01 18:34:49.225 18900 18900 I NAME    : Clouds
+06-01 18:34:49.259  1398  1398 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
+06-01 18:34:49.260  1398  1398 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
+06-01 18:34:49.261  1398  1398 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-01 18:34:49.293   231 18859 I keystore2: keystore2::watchdog: Watchdog thread idle -> terminating. Have a great day.
+06-01 18:34:49.387 18900 18900 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "US"
+06-01 18:34:49.388 18900 18900 E ViewAssertions: '(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)' check could not be performed because view 'an instance of android.widget.TextView and view.getText() with or without transformation to match: is "US"' was not found.
+06-01 18:34:49.402 18900 18900 D LifecycleMonitor: Lifecycle status change: com.weatherapp.activities.MainActivity@c247ec9 in: PAUSED
+06-01 18:34:49.402 18900 18900 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.weatherapp.activities.MainActivity@c247ec9
+06-01 18:34:49.404   577  3260 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.404   577  3260 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.404   577  3260 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.404   577  3260 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.404   577  3260 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.404   577  3260 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.404   577  3260 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.404   577  3260 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.404   577  3260 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.404   577  3260 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.405   577  3260 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.405   577  3260 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.405   577  3260 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.405   577  3260 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.405   577  3260 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.405   577  3260 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.405   577  3260 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.405   577  3260 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.405   577  3260 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.405   577  3260 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.440   577  1414 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.441   577  1414 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.441   577  1414 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.441   577  1414 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.441   577  1414 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.441   577  1414 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.441   577  1414 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.441   577  1414 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.441   577  1414 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.441   577  1414 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.441   577  1414 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.442   577  1414 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.442   577  1414 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.442   577  1414 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.442   577  1414 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.442   577  1414 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.442   577  1414 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.442   577  1414 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.442   577  1414 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.443   577  1414 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.457 18924 18949 D HostConnection: createUnique: call
+06-01 18:34:49.459 18924 18949 D HostConnection: HostConnection::get() New Host Connection established 0x7dd7c3727a50, tid 18949
+06-01 18:34:49.463 18924 18949 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+06-01 18:34:49.465   216   216 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device VINTF manifest.
+06-01 18:34:49.465 18924 18949 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+06-01 18:34:49.466 18924 18949 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+06-01 18:34:49.478 18924 18949 D EGL_emulation: eglCreateContext: 0x7dd7c37287d0: maj 2 min 0 rcv 2
+06-01 18:34:49.521 18924 18949 D EGL_emulation: eglMakeCurrent: 0x7dd7c37287d0: ver 2 0 (tinfo 0x7dd9ea259080) (first time)
+06-01 18:34:49.528   216   216 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+06-01 18:34:49.528 18924 18949 I Gralloc4: mapper 4.x is not supported
+06-01 18:34:49.529 18924 18949 D HostConnection: createUnique: call
+06-01 18:34:49.530 18924 18949 D HostConnection: HostConnection::get() New Host Connection established 0x7dd7c3729790, tid 18949
+06-01 18:34:49.531 18924 18949 D goldfish-address-space: allocate: Ask for block of size 0x100
+06-01 18:34:49.531 18924 18949 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3e7ffe000 size 0x2000
+06-01 18:34:49.569   216   216 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+06-01 18:34:49.569 18924 18949 W Gralloc4: allocator 4.x is not supported
+06-01 18:34:49.573   374   374 D goldfish-address-space: claimShared: Ask to claim region [0x3ec000000 0x3ece10000]
+06-01 18:34:49.578   396   548 D AudioFlinger: mixer(0x7130840e4a60) throttle end: throttle time(8)
+06-01 18:34:49.586 18924 18949 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+06-01 18:34:49.588   374   374 D goldfish-address-space: claimShared: Ask to claim region [0x3ece10000 0x3edc20000]
+06-01 18:34:49.590   374   374 D goldfish-address-space: claimShared: Ask to claim region [0x3edc20000 0x3eea30000]
+06-01 18:34:49.685   374   374 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f0e10000]
+06-01 18:34:49.687   374   374 D goldfish-address-space: claimShared: Ask to claim region [0x3f10d7000 0x3f1ee7000]
+06-01 18:34:49.689   374   374 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f4e10000]
+06-01 18:34:49.704   577   598 I ActivityTaskManager: Displayed com.weatherapp.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +271ms
+06-01 18:34:49.711   374   374 D goldfish-address-space: claimShared: Ask to claim region [0x3ece10000 0x3ed710000]
+06-01 18:34:49.743 18900 18900 D LifecycleMonitor: Lifecycle status change: com.weatherapp.activities.MainActivity@c247ec9 in: STOPPED
+06-01 18:34:49.743   577  3171 W InputManager-JNI: Input channel object '80e99a2 com.weatherapp.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+06-01 18:34:49.744 18900 18900 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.weatherapp.activities.MainActivity@c247ec9
+06-01 18:34:49.751   577  3171 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.751   577  3171 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.752   577  3171 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.752 18900 18900 D LifecycleMonitor: Lifecycle status change: com.weatherapp.activities.MainActivity@c247ec9 in: DESTROYED
+06-01 18:34:49.753 18900 18900 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-01 18:34:49.753   577  3171 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.754   577  3171 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.754   577  3171 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.754   577  3171 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.755   577  3171 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.755   577  3171 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.756   577  3171 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.760 18900 18921 E TestRunner: failed: should_display_Globe_when_permissionsAreDenied(com.weatherapp.activities.MainActivityTest)
+06-01 18:34:49.760 18900 18921 E TestRunner: ----- begin exception -----
+06-01 18:34:49.762 18900 18921 E TestRunner: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: an instance of android.widget.TextView and view.getText() with or without transformation to match: is "US"
+06-01 18:34:49.762 18900 18921 E TestRunner:
+06-01 18:34:49.762 18900 18921 E TestRunner: View Hierarchy:
+06-01 18:34:49.762 18900 18921 E TestRunner: +>DecorView{id=-1, visibility=VISIBLE, width=1440, height=2560, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
+06-01 18:34:49.762 18900 18921 E TestRunner:   fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
+06-01 18:34:49.762 18900 18921 E TestRunner:   pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
+06-01 18:34:49.762 18900 18921 E TestRunner:   bhv=DEFAULT
+06-01 18:34:49.762 18900 18921 E TestRunner:   fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +->LinearLayout{id=-1, visibility=VISIBLE, width=1440, height=2504, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@c6727e1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +-->ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f18b906, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +-->FrameLayout{id=-1, visibility=VISIBLE, width=1440, height=2420, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@68acbc7, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=84.0, child-count=1}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +--->ActionBarOverlayLayout{id=2131230870, res-name=decor_content_parent, visibility=VISIBLE, width=1440, height=2420, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@61995f4, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +---->ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1440, height=2224, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@34d611d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=196.0, child-count=1}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +----->LinearLayout{id=2131230983, res-name=main_layout, visibility=VISIBLE, width=1440, height=2224, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@4f75f92, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=5}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +------>LinearLayout{id=-1, visibility=VISIBLE, width=1328, height=245, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@95e5d63, tag=null, root-is-layout-requested=false, has-input-connection=false, x=56.0, y=56.0, child-count=2}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +------->CardView{id=-1, visibility=VISIBLE, width=628, height=245, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@b341d60, tag=null, root-is-layout-requested=false, has-input-connection=false, x=18.0, y=0.0, child-count=1}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +-------->LinearLayout{id=-1, visibility=VISIBLE, width=628, height=245, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@e63f219, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +--------->AppCompatImageView{id=2131230965, res-name=iv_main, desc=image, visibility=VISIBLE, width=175, height=175, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@ca7e2de, tag=null, root-is-layout-requested=false, has-input-connection=false, x=35.0, y=35.0}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +--------->LinearLayout{id=-1, visibility=VISIBLE, width=348, height=161, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@4f6cbf, tag=null, root-is-layout-requested=false, has-input-connection=false, x=245.0, y=42.0, child-count=2}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +---------->AppCompatTextView{id=2131231206, res-name=tv_main, visibility=VISIBLE, width=348, height=85, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@fadaf8c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, text=Clouds, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +---------->AppCompatTextView{id=2131231207, res-name=tv_main_description, visibility=VISIBLE, width=348, height=76, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@ab896d5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=85.0, text=few clouds, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +------->CardView{id=-1, visibility=VISIBLE, width=628, height=245, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c4b4eea, tag=null, root-is-layout-requested=false, has-input-connection=false, x=682.0, y=0.0, child-count=1}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +-------->LinearLayout{id=-1, visibility=VISIBLE, width=628, height=245, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@11815db, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +--------->AppCompatImageView{id=2131230963, res-name=iv_humidity, desc=image, visibility=VISIBLE, width=175, height=175, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@4c3878, tag=null, root-is-layout-requested=false, has-input-connection=false, x=35.0, y=35.0}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +--------->LinearLayout{id=-1, visibility=VISIBLE, width=348, height=161, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@e78cb51, tag=null, root-is-layout-requested=false, has-input-connection=false, x=245.0, y=42.0, child-count=2}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +---------->AppCompatTextView{id=2131231215, res-name=tv_temp, visibility=VISIBLE, width=348, height=85, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@9076fb6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, text=29°C, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +---------->AppCompatTextView{id=2131231205, res-name=tv_humidity, visibility=VISIBLE, width=348, height=76, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@8f834b7, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=85.0, text=66.0 per cent, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +------>LinearLayout{id=-1, visibility=VISIBLE, width=1328, height=245, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@e486424, tag=null, root-is-layout-requested=false, has-input-connection=false, x=56.0, y=357.0, child-count=2}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +------->CardView{id=-1, visibility=VISIBLE, width=628, height=245, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@b2dcb8d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=18.0, y=0.0, child-count=1}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +-------->LinearLayout{id=-1, visibility=VISIBLE, width=628, height=245, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@292d142, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +--------->AppCompatImageView{id=2131230966, res-name=iv_min_max, desc=image, visibility=VISIBLE, width=175, height=175, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f516553, tag=null, root-is-layout-requested=false, has-input-connection=false, x=35.0, y=35.0}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +--------->LinearLayout{id=-1, visibility=VISIBLE, width=348, height=161, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@3b99e90, tag=null, root-is-layout-requested=false, has-input-connection=false, x=245.0, y=42.0, child-count=2}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +---------->AppCompatTextView{id=2131231209, res-name=tv_min, visibility=VISIBLE, width=348, height=85, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@7b89389, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, text=29°C min, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +---------->AppCompatTextView{id=2131231208, res-name=tv_max, visibility=VISIBLE, width=348, height=76, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@b80bf8e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=85.0, text=29°C max, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +------->CardView{id=-1, visibility=VISIBLE, width=628, height=245, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@60303af, tag=null, root-is-layout-requested=false, has-input-connection=false, x=682.0, y=0.0, child-count=1}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +-------->LinearLayout{id=-1, visibility=VISIBLE, width=628, height=245, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@2c213bc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +--------->AppCompatImageView{id=2131230969, res-name=iv_wind, desc=image, visibility=VISIBLE, width=175, height=175, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@e0ddf45, tag=null, root-is-layout-requested=false, has-input-connection=false, x=35.0, y=35.0}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +--------->LinearLayout{id=-1, visibility=VISIBLE, width=348, height=161, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@a4d469a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=245.0, y=42.0, child-count=2}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +---------->AppCompatTextView{id=2131231211, res-name=tv_speed, visibility=VISIBLE, width=348, height=85, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@3862bcb, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, text=0.89, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.762 18900 18921 E TestRunner: +---------->AppCompatTextView{id=2131231212, res-name=tv_speed_unit, visibility=VISIBLE, width=348, height=76, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@b7aafa8, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=85.0, text=miles/hour, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.762 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +------>CardView{id=-1, visibility=VISIBLE, width=1292, height=612, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@8b22ac1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=74.0, y=658.0, child-count=1}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +------->LinearLayout{id=-1, visibility=VISIBLE, width=1292, height=612, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@f293266, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +-------->LinearLayout{id=-1, visibility=VISIBLE, width=1222, height=175, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@2c9b9a7, tag=null, root-is-layout-requested=false, has-input-connection=false, x=35.0, y=35.0, child-count=2}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +--------->AppCompatImageView{id=2131230964, res-name=iv_location, desc=image, visibility=VISIBLE, width=175, height=175, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@49f1e54, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +--------->LinearLayout{id=-1, visibility=VISIBLE, width=1012, height=161, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@bf5b1fd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=210.0, y=0.0, child-count=2}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +---------->AppCompatTextView{id=2131231210, res-name=tv_name, visibility=VISIBLE, width=1012, height=85, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@a860ef2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, text=Globe, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +---------->AppCompatTextView{id=2131231204, res-name=tv_country, visibility=VISIBLE, width=1012, height=76, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@4ce4943, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=85.0, text=, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +-------->View{id=-1, visibility=VISIBLE, width=1110, height=4, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@2f9cbc0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=91.0, y=266.0}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +-------->LinearLayout{id=-1, visibility=VISIBLE, width=1222, height=251, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@6f070f9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=35.0, y=326.0, child-count=2}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +--------->LinearLayout{id=-1, visibility=VISIBLE, width=210, height=251, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@62283e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=366.0, y=0.0, child-count=2}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +---------->AppCompatImageView{id=2131230967, res-name=iv_sunrise, desc=image, visibility=VISIBLE, width=175, height=175, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@2369f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +---------->AppCompatTextView{id=2131231213, res-name=tv_sunrise_time, visibility=VISIBLE, width=210, height=76, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@b8fe3ec, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=175.0, text=00:54:24, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +--------->LinearLayout{id=-1, visibility=VISIBLE, width=210, height=251, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@83e23b5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=646.0, y=0.0, child-count=2}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +---------->AppCompatImageView{id=2131230968, res-name=iv_sunset, desc=image, visibility=VISIBLE, width=175, height=175, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@4548a4a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +---------->AppCompatTextView{id=2131231214, res-name=tv_sunset_time, visibility=VISIBLE, width=210, height=76, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@95d9dbb, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=175.0, text=13:01:34, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +------>AppCompatButton{id=2131230821, res-name=buttonCelsius, visibility=VISIBLE, width=700, height=168, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c8d52d8, tag=null, root-is-layout-requested=false, has-input-connection=false, x=370.0, y=1393.0, text=Celsius, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +------>AppCompatButton{id=2131230822, res-name=buttonFahrenheit, visibility=VISIBLE, width=700, height=168, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@27a4631, tag=null, root-is-layout-requested=false, has-input-connection=false, x=370.0, y=1621.0, text=Fahrenheit, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +---->ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1440, height=196, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@33e5a97, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +----->Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1440, height=196, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@8f0c484, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +------>AppCompatTextView{id=-1, visibility=VISIBLE, width=403, height=93, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@c7c146d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=56.0, y=51.0, text=Weather App, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +------>ActionMenuView{id=-1, visibility=VISIBLE, width=196, height=196, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@85c18a2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1244.0, y=0.0, child-count=1}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +------->ActionMenuItemView{id=2131230787, res-name=action_refresh, desc=Refresh, visibility=VISIBLE, width=196, height=168, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionMenuView$LayoutParams@e040933, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=14.0, text=, input-type=0, ime-target=false, has-links=false}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +----->ActionBarContextView{id=2131230779, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@2f7a4f0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +->View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1440, height=56, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@9528a69, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2504.0}
+06-01 18:34:49.763 18900 18921 E TestRunner: |
+06-01 18:34:49.763 18900 18921 E TestRunner: +->View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1440, height=84, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@4871cee, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at java.lang.Thread.getStackTrace(Thread.java:1724)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:8)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at com.weatherapp.activities.MainActivityTest.should_display_Globe_when_permissionsAreDenied(MainActivityTest.kt:60)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at androidx.test.rule.GrantPermissionRule$RequestPermissionStatement.evaluate(GrantPermissionRule.java:134)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:48)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+06-01 18:34:49.763 18900 18921 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2278)
+06-01 18:34:49.763 18900 18921 E TestRunner: ----- end exception -----
+06-01 18:34:49.765   577  3171 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.765   577  3171 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.769   577  3171 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.769   577  3171 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.769   577  3171 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.769   577  3171 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.769   577  3171 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.770   577  3171 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.770   577  3171 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.770   577  3171 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+06-01 18:34:49.781 18900 18921 I ParcelableFailure: Stack trace too long, trimmed to first 16383 characters.
+06-01 18:34:49.787 18900 18921 I TestRunner: finished: should_display_Globe_when_permissionsAreDenied(com.weatherapp.activities.MainActivityTest)

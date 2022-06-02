@@ -1,0 +1,7 @@
+com.weatherapp.test.app-androidTest-0 C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\build\generated\res\resValues\androidTest\debug
+com.weatherapp.test.app-androidTest-1 C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\build\generated\res\rs\androidTest\debug
+com.weatherapp.test.app-mergeDebugAndroidTestResources-2 C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.weatherapp.test.app-mergeDebugAndroidTestResources-3 C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.weatherapp.test.app-merged_res-4 C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\build\intermediates\merged_res\debugAndroidTest
+com.weatherapp.test.app-androidTest-5 C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\androidTest\res
+com.weatherapp.test.app-androidTestDebug-6 C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\androidTestDebug\res

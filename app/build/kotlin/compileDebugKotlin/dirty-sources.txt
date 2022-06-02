@@ -1,0 +1,10 @@
+C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\java\com\weatherapp\models\Weather.kt
+C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\java\com\weatherapp\activities\MainActivity.kt
+C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\java\com\weatherapp\models\Coord.kt
+C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\java\com\weatherapp\network\WeatherService.kt
+C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\java\com\weatherapp\models\Main.kt
+C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\java\com\weatherapp\models\Sys.kt
+C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\java\com\weatherapp\utils\Constants.kt
+C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\java\com\weatherapp\models\WeatherResponse.kt
+C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\java\com\weatherapp\models\Clouds.kt
+C:\Users\sammo\AndroidStudioProjects\WeatherApp_v8\app\src\main\java\com\weatherapp\models\Wind.kt
