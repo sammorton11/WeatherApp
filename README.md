@@ -1,6 +1,6 @@
 # WeatherApp
 
-This is my first Android application that connects to the internet and retrieves data from an API. The app is a simple weather tool that displays the current weather based on the users location and displays the sunrise and sunset times. I implemented a refresh button in the action bar to refresh the weather data, as well as Celsius and Fahrenheit buttons to convert the temperature data to the users preference. I am still working on finishing testing because I am still learning Espresso and JUnit.
+This is my first Android application that connects to the internet and retrieves data from an API. The app is a simple weather tool that displays the current weather data based on the users location, as well as the the sunrise and sunset times. I implemented a refresh button in the action bar to refresh the weather data, as well as Celsius and Fahrenheit buttons to convert the temperature data to the users preference. I am still working on finishing testing because I am still learning Espresso and JUnit.
 
 
 Technologies:
